@@ -17,7 +17,8 @@ Total of 370 images were annotated and 90 percent of them were used for training
 Process of each portion is explained with code in the colab notebook: football_logo_detection_CP.ipynb. Training of the model for only 1000 steps gave good results, some of which are also shown below. This proves that by training the model for more steps and on data from other clubs, we can have a fully functional football club logo detector.
 
 ![12](https://user-images.githubusercontent.com/64746481/119849170-d6995400-bf25-11eb-94fd-58a62a3f591e.png) ![5](https://user-images.githubusercontent.com/64746481/119850168-b7e78d00-bf26-11eb-9a23-7c7c330da51d.png)
- ![4](https://user-images.githubusercontent.com/64746481/119850042-9b4b5500-bf26-11eb-91da-eeb6cd5fff98.png)
+ ![4](https://user-images.githubusercontent.com/64746481/119850042-9b4b5500-bf26-11eb-91da-eeb6cd5fff98.png) ![11](https://user-images.githubusercontent.com/64746481/119850820-5116a380-bf27-11eb-8fa6-907d364be944.png)
+
  
 Resources:
 1. https://gilberttanner.com/blog/tensorflow-object-detection-with-tensorflow-2-creating-a-custom-model
