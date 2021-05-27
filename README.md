@@ -18,6 +18,11 @@ Process of each portion is explained with code in the colab notebook: football_l
 
 ![12](https://user-images.githubusercontent.com/64746481/119849170-d6995400-bf25-11eb-94fd-58a62a3f591e.png) ![5](https://user-images.githubusercontent.com/64746481/119850168-b7e78d00-bf26-11eb-9a23-7c7c330da51d.png)
  ![4](https://user-images.githubusercontent.com/64746481/119850042-9b4b5500-bf26-11eb-91da-eeb6cd5fff98.png)
+ 
+Resources:
+1. https://gilberttanner.com/blog/tensorflow-object-detection-with-tensorflow-2-creating-a-custom-model
+2. https://heartbeat.fritz.ai/end-to-end-object-detection-using-efficientdet-on-raspberry-pi-3-part-2-bb5133646630
+3. https://towardsdatascience.com/train-an-object-detector-using-tensorflow-2-object-detection-api-in-2021-a4fed450d1b9
 
 
 
