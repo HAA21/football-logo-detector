@@ -13,11 +13,14 @@ Total of 370 images were annotated and 90 percent of them were used for training
 2. configuration for training
 3. training 
 4. inference and testing
-Process of each portion is explained with code in the colab notebook: football_logo_detection_CP.ipynb.
 
-Training of the model for only 1000 steps gave good results, some of which are also shown below:
-![4](https://user-images.githubusercontent.com/64746481/119848527-5246d100-bf25-11eb-99b1-b2293bca1c55.png) 
-![4](https://user-images.githubusercontent.com/64746481/119848566-596ddf00-bf25-11eb-9c2c-f976976077f1.png)
+Process of each portion is explained with code in the colab notebook: football_logo_detection_CP.ipynb. Training of the model for only 1000 steps gave good results, some of which are also shown below. Which proves that training data for more steps and on data from other clubs we can have a fully functional football club logo detector.
+
+![12](https://user-images.githubusercontent.com/64746481/119849170-d6995400-bf25-11eb-94fd-58a62a3f591e.png) ![5](https://user-images.githubusercontent.com/64746481/119850168-b7e78d00-bf26-11eb-9a23-7c7c330da51d.png)
+ ![4](https://user-images.githubusercontent.com/64746481/119850042-9b4b5500-bf26-11eb-91da-eeb6cd5fff98.png)
+
+
+
 
 
 
