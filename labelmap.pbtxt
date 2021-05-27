@@ -1,0 +1,16 @@
+item {
+    id: 1
+    name: 'manchester_united'
+}
+item {
+    id: 2
+    name: 'barcelona'
+}
+item {
+    id: 3
+    name: 'chelsea'
+}
+item {
+    id: 4
+    name: 'real_madrid'
+}
